@@ -1,0 +1,85 @@
+.header{
+    height: 100px;
+    background-color: aquamarine;
+    position: sticky;
+    top:0;
+    padding-top: 30px;
+    text-align: center;
+
+ }
+
+ .wrapper{
+    margin-top: 50px;
+    overflow: hidden;
+ }
+ .aboutus{
+    float: left;
+    height: 300px;
+    width: 48%;
+    background-color: rgb(179, 155, 201);
+    border: 4px solid black;
+    box-sizing:border-box ;
+    margin-left: 5px;
+    padding-left: 25px;
+    
+
+ }
+ .blog{
+    float: right;
+    height: 300px;
+    width: 48%;
+    background-color: rgb(208, 127, 127);
+    border: 4px solid rgb(9, 9, 9);
+    box-sizing: border-box; margin-right: 5px;
+    padding-left: 25px;
+    padding-top: 25px;
+    
+    
+ }
+.container{
+    border: 8px double black;
+    margin: 10px;
+    overflow: hidden;
+}
+.lay{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+    background: no-repeat ;
+
+}
+.pink{
+    background-color: pink;
+    height:151px;
+    width: 325px; 
+    
+   
+}
+.green{
+    background-color:green;
+    height:153px;
+    width:  400px; 
+    
+}
+.yellow{ 
+    background-color: yellow;height:155px;
+    width:400px; 
+    
+}
+.blue{
+    background-color: blue;height:153px;
+    width:340px; 
+    
+}
+
+ .footer{     
+    height: 200px;
+    background-color: greenyellow;
+    padding: 50px;
+
+ }
+ 
+     
+ 
+
+ 
